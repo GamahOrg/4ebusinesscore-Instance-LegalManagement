@@ -1,0 +1,13 @@
+﻿[
+  {
+    "Id": "147b2fe5-69c0-4fe7-b18d-60833ae487ec",
+    "litigantStatus": 1,
+    "IsInternal": true,
+    "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "lawyerStatus": 1,
+    "LawyerName": null,
+    "Phone": null,
+    "lawyerType": 2,
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+  }
+]

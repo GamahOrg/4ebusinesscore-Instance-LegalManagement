@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "NameAr": "اعتراض على قرار إداري",
+    "NameEn": "Objection to an administrative decision",
+    "IsSeed": true
+  },
+  {
+    "id": 2,
+    "NameAr": "مساهمات عقارية ",
+    "NameEn": "Real estate contributions",
+    "IsSeed": true
+  },
+  {
+    "id": 3,
+    "NameAr": "البيع والتأجير على الخارطة",
+    "NameEn": "Sale and Rent On the map",
+    "IsSeed": true
+  },
+  {
+    "id": 4,
+    "NameAr": "مُلاك",
+    "NameEn": "angel",
+    "IsSeed": true
+  },
+  {
+    "id": 5,
+    "NameAr": "إيجار ",
+    "NameEn": "rent",
+    "IsSeed": true
+  },
+  {
+    "id": 6,
+    "NameAr": "إيجار (احتيال) مزادات",
+    "NameEn": "Rent (scam) auctions",
+    "IsSeed": true
+  },
+  {
+    "id": 7,
+    "NameAr": "عقارات الدولة",
+    "NameEn": "State real estate",
+    "IsSeed": true
+  },
+  {
+    "id": 8,
+    "NameAr": "المشتريات والعقود ",
+    "NameEn": "Purchasing and Contracts",
+    "IsSeed": true
+  },
+  {
+    "id": 9,
+    "NameAr": "المعهد العقاري",
+    "NameEn": "Real Estate Institute",
+    "IsSeed": true
+  },
+  {
+    "id": 10,
+    "NameAr": "التسجيل العيني",
+    "NameEn": "Eye registration",
+    "IsSeed": true
+  },
+  {
+    "id": 11,
+    "NameAr": "أخرى",
+    "NameEn": "Other",
+    "IsSeed": true
+  }
+] 

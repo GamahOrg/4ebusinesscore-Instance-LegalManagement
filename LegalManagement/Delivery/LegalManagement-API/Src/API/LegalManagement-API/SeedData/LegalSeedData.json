@@ -1,0 +1,229 @@
+﻿[
+  {
+    "Id": "836721d0-667b-4428-a6df-39702bdeeb44",
+    "CauseNumber": "2025/001",
+    "Title": "قضية نزاع عقاري",
+    "IncidentDate": "2025-06-06T09:02:33.779466",
+    "IncidentLocation": "القاهرة الجديدة",
+    "Subject": "نزاع على قطعة أرض",
+    "LK_CauseCategoryId": 2,
+    "ClientType": 1,
+    "CauseDate": "2025-07-03T01:30:33.779469",
+    "causeStatus": 3,
+    "CreatedBy": "3EB17E81-EDE8-4B02-90A1-3625E695AF03",
+    "CauseAssigns": [
+      {
+        "Id": "369eb6fa-9e53-4295-ad70-92008b7d5c64",
+        "CauseId": "836721d0-667b-4428-a6df-39702bdeeb44",
+        "AssignationType": 1,
+        "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CauseLawyerId": null,
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+      },
+      {
+        "Id": "e4a88fa2-9d2a-4bbb-9678-fc6cea3be88d",
+        "CauseId": "836721d0-667b-4428-a6df-39702bdeeb44",
+        "AssignationType": 2,
+        "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CauseLawyerId": null,
+        "RowVersion": null,
+        "State": 0,
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CreatedOn": "2025-07-03T09:02:33.778613",
+        "UpdatedBy": null,
+        "UpdatedOn": null
+      }
+    ],
+    "CauseLitigants": [
+      {
+        "Id": "0a2b9a7f-1cf0-4ef1-9a5c-0d1c50209fd1",
+        "LitigantId": "04baafc5-690d-4b27-bfb4-410ba61d8d05",
+        "CauseId": "836721d0-667b-4428-a6df-39702bdeeb44",
+        "Compliment": null,
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+      },
+      {
+        "Id": "ec78a84e-3a08-42c4-a871-85c3c0bd8fa7",
+        "LitigantId": "d1f30774-d761-4521-d0d5-08dd7803aab0",
+        "CauseId": "836721d0-667b-4428-a6df-39702bdeeb44",
+        "Compliment": "ترد سارة محمد بأنها المالكة الفعلية للعقار محل النزاع.",
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+      }
+    ],
+    "CauseStages": [
+      {
+        "Id": "d4660021-e340-4c0d-afb5-c22cabefab49",
+        "CauseStageNumber": "S101",
+        "CauseId": "836721d0-667b-4428-a6df-39702bdeeb44",
+        "LK_StageId": 2,
+        "Status": 1,
+        "Redirector": 2,
+        "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CauseStageAttachment": [
+          {
+            "Id": "77a009c5-c80b-4571-a027-0f7cfba92c0e",
+            "FileName": "4E.jpg",
+            "FilePath": "wwwroot/Default/4E.jpg",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "LK_AttachmentSourceId": 1,
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          }
+        ],
+        "Sessions": [
+          {
+            "Id": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+            "SessionDate": "2025-07-03T09:02:33.779802",
+            "CourtName": "محكمة القاهرة الجديدة الابتدائية",
+            "AreaName": "القاهرة الجديدة",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+            "Assignees": [
+              {
+                "Id": "14134476-9a0d-4153-9dba-c012623d1569",
+                "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+                "SessionId": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+                "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+                "AssignationType": 3,
+                "CauseLawyerId": "147b2fe5-69c0-4fe7-b18d-60833ae487ec",
+                "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+              },
+              {
+                "Id": "b78d8127-528a-4293-ac2d-3bdd144f5509",
+                "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+                "SessionId": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+                "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+                "AssignationType": 4,
+                "CauseLawyerId": null,
+                "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+              }
+            ],
+            "Attachments": [
+              {
+                "Id": "25e3fb06-9517-41d9-aeb3-3a3c2c9c76ee",
+                "FileName": "4E.jpg",
+                "FilePath": "wwwroot/Default/4E.jpg",
+                "SessionId": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+                "LK_AttachmentSourceId": 3,
+                "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+                "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+              }
+            ],
+            "JedgementGrounds": [
+              {
+                "Id": "2dbb76f4-e80b-4a9a-86a2-5ff9b95bdccf",
+                "LK_JudgementId": 2,
+                "SessionJedgementStatus": 1,
+                "JudgementStatement": "أصدرت المحكمة حكمًا نهائيًا بتمكين المدعي من قطعة الأرض موضوع النزاع، وإلزام المدعى عليه بعدم التعرض لحيازة المدعي.",
+                "SessionId": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+                "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+                "NextSession": null,
+                "TitleJudement": "حكم نهائي بتمكين المدعي",
+                "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+                "Judgements": [
+                  {
+                    "Id": "653b2b46-c112-4537-a07e-08f4af6e500e",
+                    "FileName": "4E.jpg",
+                    "FilePath": "wwwroot/Default/4E.jpg",
+                    "JedgementGroundId": "2dbb76f4-e80b-4a9a-86a2-5ff9b95bdccf",
+                    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+                  }
+                ],
+                "JudgementRequirements": [
+                  {
+                    "Id": "7b83317e-1a31-4a47-9583-2c7dab97211b",
+                    "JudgementGroundId": "2dbb76f4-e80b-4a9a-86a2-5ff9b95bdccf",
+                    "RequirementType": 1,
+                    "Text": "يجب تنفيذ الحكم خلال مدة أقصاها 30 يومًا من تاريخ صدوره.",
+                    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+                  }
+                ]
+              }
+            ],
+            "SessionNote": [
+              {
+                "Id": "46f0d1f7-f028-4e26-91a4-6659fc209f63",
+                "Description": "ملاحظات حول مجريات الجلسة الأولى والنقاط المثارة بين الأطراف.",
+                "SessionId": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+                "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+                "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+                "CauseStageNoteAttachments": [
+                  {
+                    "Id": "0363ebd0-9c53-4bc3-82d3-0548cc6cb60b",
+                    "FileName": "4E.jpg",
+                    "FilePath": "wwwroot/Default/4E.jpg",
+                    "SessionNoteId": "46f0d1f7-f028-4e26-91a4-6659fc209f63",
+                    "LK_AttachmentSourceId": 3,
+                    "CreatedBy": "92a1fbba-3796-4df9-aea4-77e3eeda17ed"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "CauseHistories": [
+          {
+            "Id": "4681bb5b-30ef-4415-89ac-1917966e59b1",
+            "RecordId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "TableName": "CauseStage",
+            "OldValue": "{}",
+            "NewValue": "{\"Id\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"CauseStageNumber\":\"S101\",\"CauseId\":\"836721d0-667b-4428-a6df-39702bdeeb44\",\"LK_StageId\":2,\"Status\":0,\"Redirector\":2,\"UserId\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\",\"CreatedBy\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\"}",
+            "Action": "Insert",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          },
+          {
+            "Id": "b1274766-3293-41b1-9c83-df8a4e02e1f1",
+            "RecordId": "a0f4df33-fd10-4d0a-b8ab-87e64687e5b7",
+            "TableName": "Session",
+            "OldValue": null,
+            "NewValue": "{\"Id\":\"a0f4df33-fd10-4d0a-b8ab-87e64687e5b7\",\"SessionDate\":\"2025-07-03T09:02:33.779802\",\"CourtName\":\"محكمة القاهرة الجديدة الابتدائية\",\"AreaName\":\"القاهرة الجديدة\",\"CauseStageId\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"CreatedBy\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\"}",
+            "Action": "Insert",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          },
+          {
+            "Id": "4f3d6471-b269-4e48-9ad9-dfa326a4d8b3",
+            "RecordId": "46f0d1f7-f028-4e26-91a4-6659fc209f63",
+            "TableName": "SessionNote",
+            "OldValue": null,
+            "NewValue": "{\"Id\":\"46f0d1f7-f028-4e26-91a4-6659fc209f63\",\"Description\":\"ملاحظات حول مجريات الجلسة الأولى والنقاط المثارة بين الأطراف.\",\"SessionId\":\"a0f4df33-fd10-4d0a-b8ab-87e64687e5b7\",\"CauseStageId\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"CauseStageId\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"CreatedBy\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\"}",
+            "Action": "Insert",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          },
+          {
+            "Id": "f77f67b2-21ef-49d7-8de2-d9a6254e0ae5",
+            "RecordId": "14134476-9a0d-4153-9dba-c012623d1569",
+            "TableName": "SessionAssignee",
+            "OldValue": "{}",
+            "NewValue": "{\"Id\":\"14134476-9a0d-4153-9dba-c012623d1569\",\"UserId\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\",\"SessionId\":\"a0f4df33-fd10-4d0a-b8ab-87e64687e5b7\",\"CauseStageId\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"AssignationType\":3,\"CauseLawyerId\":\"147b2fe5-69c0-4fe7-b18d-60833ae487ec\",\"CreatedBy\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\"}",
+            "Action": "Insert",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          },
+          {
+            "Id": "8b83d59d-6ac3-4b37-b3e4-15bb0f3e1cb3",
+            "RecordId": "b78d8127-528a-4293-ac2d-3bdd144f5509",
+            "TableName": "SessionAssignee",
+            "OldValue": "{}",
+            "NewValue": "{\"Id\":\"b78d8127-528a-4293-ac2d-3bdd144f5509\",\"UserId\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\",\"SessionId\":\"a0f4df33-fd10-4d0a-b8ab-87e64687e5b7\",\"CauseStageId\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"AssignationType\":4,\"CauseLawyerId\":null,\"CreatedBy\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\"}",
+            "Action": "Insert",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          },
+          {
+            "Id": "0e9aa493-f973-46b0-8a06-9cf6573f40df",
+            "RecordId": "2dbb76f4-e80b-4a9a-86a2-5ff9b95bdccf",
+            "TableName": "JedgementGrounds",
+            "OldValue": "{}",
+            "NewValue": "{\"Id\":\"2dbb76f4-e80b-4a9a-86a2-5ff9b95bdccf\",\"LK_JudgementId\":2,\"SessionJedgementStatus\":1,\"JudgementStatement\":\"أصدرت المحكمة حكمًا نهائيًا بتمكين المدعي من قطعة الأرض موضوع النزاع، وإلزام المدعى عليه بعدم التعرض لحيازة المدعي.\",\"SessionId\":\"a0f4df33-fd10-4d0a-b8ab-87e64687e5b7\",\"CauseStageId\":\"d4660021-e340-4c0d-afb5-c22cabefab49\",\"NextSession\":null,\"TitleJudement\":\"حكم نهائي بتمكين المدعي\",\"CreatedBy\":\"3eb17e81-ede8-4b02-90a1-3625e695af03\"}",
+            "Action": "Insert",
+            "CauseStageId": "d4660021-e340-4c0d-afb5-c22cabefab49",
+            "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+          }
+        ]
+      }
+    ]
+  }
+]

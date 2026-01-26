@@ -1,0 +1,34 @@
+[
+  {
+    "id" : 1,
+    "NameAr": "الدراسة",
+    "NameEn": "Study",
+    "IsStudy": 1
+  },
+  {
+    "id": 2,
+    "NameAr": "ابتدائي",
+    "NameEn": "Primary Court"
+  },
+  {
+    "id" : 3,
+    "NameAr": "استئناف",
+    "NameEn": "Appeal"
+  },
+  {
+    "id": 4,
+    "NameAr": "عليا",
+    "NameEn": "High Court"
+  },
+  {
+    "id": 5,
+    "NameAr": "تنفيذ",
+    "NameEn": "Enforcement"
+  },
+  {
+    "id": 6,
+    "NameAr": "إعادة نظر",
+    "NameEn": "Retrial"
+  }
+
+]

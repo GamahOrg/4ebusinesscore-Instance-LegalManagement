@@ -1,0 +1,21 @@
+﻿[
+    {
+      "Id": "04baafc5-690d-4b27-bfb4-410ba61d8d05",
+      "Name": "Ahmed Ali",
+      "LK_IdentityTypeId": 1,
+      "IdentityNumber": "70905",
+      "LitigantStatus": 1,
+      "PhoneNumber": "0501234567",
+      "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+    },
+  {
+    "Id": "d1f30774-d761-4521-d0d5-08dd7803aab0",
+    "Name": "Sarah Mohammed",
+    "LK_IdentityTypeId": 1,
+    "IdentityNumber": "70810",
+    "LitigantStatus": 2,
+    "PhoneNumber": "0555260099",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03"
+  }
+
+]

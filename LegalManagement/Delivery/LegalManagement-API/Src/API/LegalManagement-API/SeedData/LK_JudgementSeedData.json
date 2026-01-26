@@ -1,0 +1,18 @@
+[
+  {
+    "id" : 1,
+    "NameAr": "تأجيل",
+    "NameEn": "delay"
+  },
+  {
+    "id" : 2,
+    "NameAr": "صدر الحكم",
+    "NameEn": "The verdict has been issued"
+  },
+  {
+    "id" : 3,
+    "NameAr": "شطب",
+    "NameEn": "Crossed out"
+  }
+ 
+] 
